@@ -49,3 +49,4 @@ Applied via `authAdmin` middleware on routes that need admin rights.
 - Consider rate limiting on login/auth routes
 - Validate inputs (Joi/Zod recommended)
 
+Project URL: https://roadmap.sh/projects/blogging-platform-api
