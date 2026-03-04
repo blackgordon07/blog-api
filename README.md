@@ -41,7 +41,7 @@ Applied via `authAdmin` middleware on routes that need admin rights.
 1. Clone repo  
 2. `npm install`  
 3. Create `.env` with values above  
-4. `npm start` or `node server.js`
+4. `npm start` or `npm run dev`
 
 ## Security Notes
 - Never expose `JWT_SECRET`
